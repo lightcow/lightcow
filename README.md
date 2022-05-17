@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![header](https://capsule-render.vercel.app/api?type=Cylinder&color=auto&height=150&section=header&text=HI%20lightcow&fontSize=90&animation=twinkling)
+![nodejs](https://user-images.githubusercontent.com/67503900/168829175-374b8129-fbb9-4fe9-8af8-3fe651b25811.png )
+![js](https://user-images.githubusercontent.com/67503900/168828880-ee0ae8e1-9a41-444b-8d87-48c08fb6bc2d.png)
+![aws](https://user-images.githubusercontent.com/67503900/168828911-5cc4dadb-6f12-42ff-a414-20723528672b.png)
+![docker](https://user-images.githubusercontent.com/67503900/168828921-681e54d5-6570-4b29-a648-ceac22d1f852.png)
