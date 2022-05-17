@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **lightcow/lightcow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +13,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![header](https://capsule-render.vercel.app/api?type=Cylinder&color=auto&height=300&section=header&text=HI%20git&fontSize=90&animation=twinkling)
